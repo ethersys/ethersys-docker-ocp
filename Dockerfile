@@ -1,4 +1,4 @@
-FROM golang:1.17.8-alpine
+FROM golang:1.18.0-alpine
 
 
 LABEL org.opencontainers.image.authors="contact@ethersys.fr"
